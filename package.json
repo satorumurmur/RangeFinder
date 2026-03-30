@@ -1,0 +1,21 @@
+{
+  "name": "rangefinderfocuser",
+  "version": "1.0.0",
+  "description": "RangefinderFocuser | Utility for Search and Selection.",
+  "main": "RangefinderFocuser.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satorumurmur/RangefinderFocuser.git"
+  },
+  "author": {
+    "name": "Satoru Matsushima"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/satorumurmur/RangefinderFocuser/issues"
+  },
+  "homepage": "https://github.com/satorumurmur/RangefinderFocuser#readme"
+}
